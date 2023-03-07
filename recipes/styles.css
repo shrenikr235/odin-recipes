@@ -1,0 +1,34 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#pizza-body {
+    background-color: rgb(216, 183, 104);
+}
+
+#pizza-heading {
+    font-family: 'Black Han Sans', sans-serif;
+    color: brown;
+}
+
+#dbc-body {
+    background-color:#CBC3E3;
+}
+
+#dbc-heading {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+#naan-body {
+    background-color: rgb(256,80,50);
+}
+
+#naan-heading {
+    font-family: 'Kumar One', cursive;
+    color: 	#FFFF99	
+}
